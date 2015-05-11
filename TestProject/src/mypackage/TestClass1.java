@@ -7,10 +7,6 @@ public class TestClass1 {
 		System.out.println("Adding some new code");
 		System.out.println("Just changing the previos commit");
 		System.out.println("Adding a new change");
-		
-
-
-
 	}
 
 }
